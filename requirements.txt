@@ -1,0 +1,7 @@
+langchain-google-genai
+langgraph
+python-dotenv
+pydantic
+sqlite-utils
+typing-extensions
+streamlit
